@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Employee from './Components/Employee';
 import {useState} from 'react'
 function App() {
